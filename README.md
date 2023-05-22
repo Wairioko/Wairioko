@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">###Hi 👋, I'm Charles a data nerd</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Charles a data nerd</h1></summary>
   </ul>
 </div>
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **to put together infrastructure for Scalable Data Applications.**
 
 - ☁️ I've keen interest in data engineering, data analytics and data analysis .
-    So,I'm learning about and more on **ETL, Warehouses (OLAP) **
+    Currently learning more on **ETL, Warehouses (OLAP)**
 
 - 💬 Ask me about **Python, SQL, Django, AWS, mongoDB**
 
