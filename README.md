@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, SQL, Django, AWS, mongoDB**
+- 🔭 I’m currently working on **Python, SQL, Django, AWS, mongoDB, mySql**
 
 - 🌱 I’m currently learning **to put together infrastructure for Scalable Data Applications.**
 
 - ☁️ I've keen interest in data engineering, data analytics and data analysis .
     Currently learning more on **ETL, Warehouses (OLAP)**
 
-- 💬 Ask me about **Python, SQL, Django, AWS, mongoDB**
+- 💬 Ask me about **Python, SQL, Django, AWS, mongoDB, mySql**
 
 - 📫 Feel free to reach me out **charlesmungai5@gmail.com**
 
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit,git,aws,bootstrap,c,cpp,css,github,html,js,linux,mongodb,mysql,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,git,aws,bootstrap,c,css,github,html,js,linux,mongodb,mysql,postman,py,vscode&perline=14" />
   </a>
 </p>
 
