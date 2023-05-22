@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, SQL, Django, AWS, mongoDB**
 
-- 🌱 I’m currently learning **to put together  for Scalable Applications.**
+- 🌱 I’m currently learning **to put together infrastructure for Scalable Data Applications.**
 
 - ☁️ I've keen interest in data engineering, data analytics and data analysis .
     So,I'm learning about and more on **ETL, Warehouses (OLAP) **
