@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is a part of Programming,
-    part of creation.</h2></summary>
+    <summary><h2 style="display: inline-block">Fascinated about using data to tell stories.</h2></summary>
   </ul>
 </div>
 
