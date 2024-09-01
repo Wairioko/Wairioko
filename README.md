@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Charles, I love building stuff</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Charles</h1></summary>
   </ul>
 </div>
 
