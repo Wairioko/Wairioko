@@ -44,11 +44,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ** Serverless Architecture; AWS**
 
 - ☁️ I've keen interest in backend engineering .
-    
-
 - 💬 Ask me about **NodeJS, Express, React, MongoDB, Python, Javascript**
-- 
-- 📫 Feel free to reach me out **charlesmungai5@gmail.com**
+- 📫 Feel free to reach me on **charlesmungai5@gmail.com**
 
 <!--Intro end-->
 
