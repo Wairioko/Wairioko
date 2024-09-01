@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Charles a data nerd</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Charles, I love building stuff</h1></summary>
   </ul>
 </div>
 
@@ -33,20 +33,20 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Fascinated about using data to tell stories.</h2></summary>
+    <summary><h2 style="display: inline-block">Fascinated about tech and harnessing its power to build solutions</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, SQL, Django, AWS, mongoDB, mySql**
+- 🔭 I’m currently working with **NodeJS, Express, React, MongoDB, Python, Javascript **
 
-- 🌱 I’m currently learning **to put together infrastructure for Scalable Data Applications.**
+- 🌱 I’m currently learning ** Serverless Architecture; AWS**
 
-- ☁️ I've keen interest in data engineering, data analytics and data analysis .
-    Currently learning more on **ETL, Warehouses (OLAP)**
+- ☁️ I've keen interest in backend engineering .
+    
 
-- 💬 Ask me about **Python, PowerBI, SQL, Django, AWS, mongoDB, mySql**
+- 💬 Ask me about **NodeJS, Express, React, MongoDB, Python, Javascript**
 - 
 - 📫 Feel free to reach me out **charlesmungai5@gmail.com**
 
